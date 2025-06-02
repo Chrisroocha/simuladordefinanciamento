@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(to right, #e0f7fa, #ffffff);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container .mb-4{
+    text-align: center;
+}
+
+.simulador-box {
+  background-color: #ffffff;
+  max-width: 600px;
+  margin: auto;
+}
+
+input[type="number"] {
+  border-radius: 8px;
+  border: 1px solid #ced4da;
+}
+
+button {
+  font-size: 1.2rem;
+  border-radius: 30px;
+}
